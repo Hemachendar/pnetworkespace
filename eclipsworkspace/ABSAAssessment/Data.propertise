@@ -1,0 +1,6 @@
+chrome = chrome
+ gecko=firefox
+ edge=edge
+ ie=ie
+ 
+ url= http://www.way2automation.com/angularjs-protractor/webtables/

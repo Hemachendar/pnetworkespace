@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ABSASuite" duration-ms="24721" started-at="2019-07-19T10:31:09Z" finished-at="2019-07-19T10:31:34Z">
+    <groups>
+    </groups>
+    <test name="ABSATest" duration-ms="24721" started-at="2019-07-19T10:31:09Z" finished-at="2019-07-19T10:31:34Z">
+      <class name="com.ABSAAssessment.TestCases.TC001">
+        <test-method status="PASS" signature="Startprocess(java.lang.String)[pri:0, instance:com.ABSAAssessment.TestCases.TC001@91161c7]" name="Startprocess" is-config="true" duration-ms="8851" started-at="2019-07-19T10:31:09Z" finished-at="2019-07-19T10:31:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startprocess -->
+        <test-method status="PASS" signature="operation()[pri:0, instance:com.ABSAAssessment.TestCases.TC001@91161c7]" name="operation" duration-ms="3200" started-at="2019-07-19T10:31:18Z" finished-at="2019-07-19T10:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operation -->
+        <test-method status="PASS" signature="endprocess()[pri:0, instance:com.ABSAAssessment.TestCases.TC001@91161c7]" name="endprocess" is-config="true" duration-ms="689" started-at="2019-07-19T10:31:21Z" finished-at="2019-07-19T10:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endprocess -->
+        <test-method status="PASS" signature="Startprocess(java.lang.String)[pri:0, instance:com.ABSAAssessment.TestCases.TC001@91161c7]" name="Startprocess" is-config="true" duration-ms="7002" started-at="2019-07-19T10:31:22Z" finished-at="2019-07-19T10:31:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startprocess -->
+        <test-method status="PASS" signature="SecoundOperation()[pri:1, instance:com.ABSAAssessment.TestCases.TC001@91161c7]" name="SecoundOperation" duration-ms="4275" started-at="2019-07-19T10:31:29Z" finished-at="2019-07-19T10:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecoundOperation -->
+        <test-method status="PASS" signature="endprocess()[pri:0, instance:com.ABSAAssessment.TestCases.TC001@91161c7]" name="endprocess" is-config="true" duration-ms="668" started-at="2019-07-19T10:31:33Z" finished-at="2019-07-19T10:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endprocess -->
+      </class> <!-- com.ABSAAssessment.TestCases.TC001 -->
+    </test> <!-- ABSATest -->
+  </suite> <!-- ABSASuite -->
+</testng-results>

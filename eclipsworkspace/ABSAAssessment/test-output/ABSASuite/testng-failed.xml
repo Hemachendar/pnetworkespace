@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ABSASuite]">
+  <test thread-count="5" name="ABSATest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.ABSAAssessment.TestCases.TC001">
+        <methods>
+          <include name="SecoundOperation"/>
+          <include name="endprocess"/>
+          <include name="Startprocess"/>
+        </methods>
+      </class> <!-- com.ABSAAssessment.TestCases.TC001 -->
+    </classes>
+  </test> <!-- ABSATest(failed) -->
+</suite> <!-- Failed suite [ABSASuite] -->
